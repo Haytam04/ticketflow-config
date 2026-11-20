@@ -10,4 +10,4 @@ eureka:
     refresh:
       enable: false
 ticketflow:
-  message: "Bienvenue dans TicketFlow - configuration v0"
+  message: "Bienvenue dans TicketFlow - configuration v1.1"
